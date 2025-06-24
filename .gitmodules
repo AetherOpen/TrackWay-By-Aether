@@ -1,0 +1,6 @@
+[submodule "TrackieIntelligence"]
+	path = TrackieIntelligence
+	url = https://github.com/AetherOpen/Trackie_Intelligence
+[submodule "TrackieLLM"]
+	path = TrackieLLM
+	url = https://github.com/AetherOpen/TrackieLLM.git
